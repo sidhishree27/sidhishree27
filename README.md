@@ -17,7 +17,7 @@
 - 🔭 Working on building projects to grow my portfolio
 - 📍 India
 - 💬 Ask me about **Java, C++, DSA, or C**
-- 📫 Reach me at: *(add your email or LinkedIn here)*
+- 📫 Reach me at: **sidhishreedash@gmail.com**
 
 ---
 
@@ -71,8 +71,11 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/sidhishreedash27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sidhishreedash@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/YOUR-LEETCODE" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
