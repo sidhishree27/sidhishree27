@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 **BTech CSE** — 2nd Year student passionate about problem solving
+- 🎓 **BTech CSE** — 3rd Year student passionate about problem solving
 - 💡 Currently strengthening my **Data Structures & Algorithms** skills
 - 🌱 Learning **Python** and exploring its applications
 - 🔭 Working on building projects to grow my portfolio
